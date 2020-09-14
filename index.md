@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
+```
 ### Support or Contact
 
 **Having trouble signing up or have questions?**
