@@ -6,7 +6,7 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
 
 ### Subscribe
 
-Join The Hype Movement below
+**Join below**
 
 ```markdown
 Syntax highlighted code block
