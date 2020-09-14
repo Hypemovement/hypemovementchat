@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to The Hype Movement
 
-You can use the [editor on GitHub](https://github.com/Hypemovement/hypemovementchat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hype Movement Chat is an exclusive Discord based chat that provides steals and deals to our members, for a low price of $24.99 per month.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, Supreme, and much more, for a fraction of market pricing!
+
+Feel free to DM us on Instagram [(@hypemovementchat)](https://www.instagram.com/hypemovementchat/) for any questions, comments, and or concerns!
 
 ### Markdown
 
