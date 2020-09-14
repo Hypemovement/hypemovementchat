@@ -28,4 +28,5 @@ Syntax highlighted code block
 ### Support or Contact
 
 **Having trouble signing up or have questions?**
+
 Feel free to DM us on Instagram **[(@hypemovementchat)](https://www.instagram.com/hypemovementchat/)** for any questions, comments, and or concerns!
