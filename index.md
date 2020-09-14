@@ -4,9 +4,9 @@ Hype Movement Chat is an exclusive Discord based chat that provides steals and d
 
 Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, Supreme, and much more, for a fraction of market pricing!
 
-Feel free to DM us on Instagram [(@hypemovementchat)](https://www.instagram.com/hypemovementchat/) for any questions, comments, and or concerns!
+Feel free to DM us on Instagram **[(@hypemovementchat)](https://www.instagram.com/hypemovementchat/)** for any questions, comments, and or concerns!
 
-### Markdown
+### Subscribe
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,10 +29,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hypemovement/hypemovementchat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
