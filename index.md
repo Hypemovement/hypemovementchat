@@ -1,4 +1,4 @@
-## Welcome to The Hype Movement
+## Welcome
 
 Hype Movement Chat is an exclusive Discord based chat that provides steals and deals to our members, for a low price of $24.99 per month.  
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### Support or Contact
+### Contact
 
 **Having trouble signing up or have questions?**
 
