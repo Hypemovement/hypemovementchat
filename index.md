@@ -20,6 +20,7 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
   </ul>
   <button>Sign up</button>
 </div>
+<br>
 
 
 ### Contact
