@@ -14,9 +14,7 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
   </div>
   <span class="price">$24.99</span>
   <ul class="features">
-    <li>Limited shoes</li>
-    <li>clothing</li>
-    <li>And more...</li>   
+    <li>Exclusive access to the Hype Movement Chat</li> 
   </ul>
   <button>Sign up</button>
 </div>
