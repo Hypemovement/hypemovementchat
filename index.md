@@ -8,7 +8,7 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
 
 **Join below**
 
-<p><div class="promo scale">
+<div class="promo scale">
   <div class="deal">
     <span>Membership</span>
   </div>
@@ -18,7 +18,6 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
   </ul>
   <button>Sign up</button>
 </div>
-<br></p>
 
 
 ### Contact
