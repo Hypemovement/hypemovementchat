@@ -8,23 +8,19 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
 
 **Join below**
 
-```markdown
-Syntax highlighted code block
+<div class="promo scale">
+  <div class="deal">
+    <span>Membership</span>
+  </div>
+  <span class="price">$24.99</span>
+  <ul class="features">
+    <li>Limited shoes</li>
+    <li>clothing</li>
+    <li>And more...</li>   
+  </ul>
+  <button>Sign up</button>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Contact
 
 **Having trouble signing up or have questions?**
