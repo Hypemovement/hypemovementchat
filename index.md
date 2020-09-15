@@ -21,7 +21,6 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
 <br>
 <br>
 
-
 ### Contact
 
 **Having trouble signing up or have questions?**
