@@ -16,7 +16,7 @@ Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, 
   <ul class="features">
     <li>Exclusive access to the Hype Movement Chat</li> 
   </ul>
-  <button>Sold out!</button>
+  <button><a href="https://dash.hypemovementchat.com/">Buy Now!</a></button>
 </div>
 <br>
 
