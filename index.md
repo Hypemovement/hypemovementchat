@@ -27,11 +27,11 @@ and MUCH MUCH More!
   <ul class="features">
     <li>Exclusive access to The Movement</li> 
   </ul>
-  <button><a href="https://dash.movementchat.com/purchase">Buy Now!</a></button>
+  <button><a href="https://dash.themovementchat.com/purchase">Buy Now!</a></button>
 </div>
 <br>
 <br>
-<a href="https://dash.movementchat.com/">Access Dashboard</a>
+<a href="https://dash.themovementchat.com/">Access Dashboard</a>
 
 
 <br>
