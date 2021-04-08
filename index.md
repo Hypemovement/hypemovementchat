@@ -4,17 +4,18 @@ The Movement is a premium Discord chat that specializes in making you money thro
 
 Some of the things we offer here at The Movement include...
 - FREE Auto Checkout for Every Release and Restocks.
-- 1:1 Help with Botting.
-- Blazing Fast Monitors
-- Weekly Giveaways 
-- Online Brick Links
-- In-store Information
-- Stock Picks
-- 24/7 Online Support
-- Lowkey Flips
-- Discounted Shipping Labels
+- 1:1 Help with botting.
+- Blazing Fast Monitors.
+- Weekly Giveaways.
+- Online Brick Links.
+- In-store Information.
+- Stock Picks.
+- 24/7 Online Support.
+- Lowkey Flips.
+- Discounted Shipping Labels.
 
 and MUCH MUCH More!
+
 
 ### Subscribe
 
