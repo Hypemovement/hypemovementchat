@@ -40,3 +40,6 @@ and MUCH MUCH More!
 **Having trouble signing up or have questions?**
 
 Feel free to DM us on Instagram **[(@themovementchat)](https://www.instagram.com/themovementchat/)** for any questions, comments, and or concerns!
+
+
+<p><small>Managed by <a href="https://twitter.com/SolidGary">@SolidGary</a></small></p>
