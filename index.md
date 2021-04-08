@@ -1,8 +1,20 @@
 ## Welcome
 
-Hype Movement Chat is an exclusive Discord based chat that provides steals and deals to our members, for a low price of $24.99 per month.  
+The Movement is a premium Discord chat that specializes in making you money through sneakers, stocks, random flips, and everything in between!  
 
-Members will have access to limited shoes & clothing such as Jordan's, Yeezy's, Supreme, and much more, for a fraction of market pricing!
+Some of the things we offer here at The Movement include...
+- FREE Auto Checkout for Every Release and Restocks.
+- 1:1 Help with Botting.
+- Blazing Fast Monitors
+- Weekly Giveaways 
+- Online Brick Links
+- In-store Information
+- Stock Picks
+- 24/7 Online Support
+- Lowkey Flips
+- Discounted Shipping Labels
+
+and MUCH MUCH More!
 
 ### Subscribe
 
